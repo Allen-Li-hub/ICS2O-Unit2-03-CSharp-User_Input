@@ -1,5 +1,5 @@
-# ICS2O-Template
+# ICS2O-Unit2-03-CSharp-User_Input
 
-[![Mr Coxall's Super Linter](https://github.com/Allen-Li-hub/ICS2O-Timplate//workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Allen-Li-hub/ICS2O-Timplate//actions/)
+[![Mr Coxall's Super Linter](https://github.com/Allen-Li-hub/ICS2O-Unit2-03-CSharp-User_Input//workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Allen-Li-hub/ICS2O-Unit2-03-CSharp-User_Input//actions/)
 
-[![Run on Repl.it](https://repl.it/badge/github/Allen-Li-hub/ICS2O-Template/)](https://repl.it/github/Allen-Li-hub/ICS2O-Template/)
+[![Run on Repl.it](https://repl.it/badge/github/Allen-Li-hub/ICS2O-Unit2-03-CSharp-User_Input/)](https://repl.it/github/Allen-Li-hub/ICS2O-Unit2-03-CSharp-User_Input/)
